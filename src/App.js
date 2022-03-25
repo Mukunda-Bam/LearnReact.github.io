@@ -3,22 +3,24 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className="App">
+        <main>
+          <header className="App-header">
+            <h1>Learn Fundamentals of React JS</h1>
+            </header>
+            <div className="first-container"><img className="logo-container" src={logo} alt='abc'/>
+            
+              <h2>  🎯 What is React JS?</h2>
+              <p>React is a free, open-source JavaScript library that is used in the frontend to build what you see on your computer or mobile phone
+                screen when you run a website or an app. Everything you see on the screen is divided into small parts, which are called 
+                components in the reaction. So the visual part of your website or an app is made of components. And components? Well, you can 
+                think of components as reusable and indepedent pieces of code 
+                so that it easy for developers to build.
+                </p>
+              
+             </div>
+         </main>
+       </div>
   );
 }
 
