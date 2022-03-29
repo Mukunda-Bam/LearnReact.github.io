@@ -13,7 +13,7 @@ function App() {
               <h2>  🎯 What is React JS?</h2>
               <p>React is a free, open-source JavaScript library that is used in the frontend to build what you see on your computer or mobile phone
                 screen when you run a website or an app. Everything you see on the screen is divided into small parts, which are called 
-                components in the reaction. So the visual part of your website or an app is made of components. And components? Well, you can 
+                components in the react. So the visual part of your website or an app is made of components. And components? Well, you can 
                 think of components as reusable and indepedent pieces of code 
                 so that it easy for developers to build.
                 </p>
