@@ -7,6 +7,18 @@ header.App-header{
   background-color: gray;
   padding: 15px;
   color:aqua;
+  text-decoration:none;
+}
+
+div.nav-bar{
+  background-color: greenyellow;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 15px;
+  color:white;
+  text-decoration: none;
+
+  
 }
 p {
   text-align: justify;
@@ -33,7 +45,7 @@ p {
 
 @keyframes logopicture {
   from {
-    transform: rotate(0deg);
+    transform:rotate(0deg);
   }
   to {
     transform: rotate(360deg);
