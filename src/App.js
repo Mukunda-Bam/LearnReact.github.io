@@ -1,13 +1,21 @@
 import logo from './logo.svg';
 import './App.css';
 
+
 function App() {
   return (
       <div className="App">
         <main>
+        
           <header className="App-header">
             <h1>Learn Fundamentals of React JS</h1>
             </header>
+            <nav>
+            <div className='nav-bar'>
+               <a className='home' href='http://mukundabam.epizy.com/?i=1'>HOME</a>
+               
+             </div>
+             </nav>
             <div className="first-container"><img className="logo-container" src={logo} alt='abc'/>
             
               <h2>  🎯 What is React JS?</h2>
@@ -19,6 +27,7 @@ function App() {
                 </p>
               
              </div>
+             
          </main>
        </div>
   );
