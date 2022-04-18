@@ -6,13 +6,15 @@ function App() {
   return (
       <div className="App">
         <main>
-        
           <header className="App-header">
             <h1>Learn Fundamentals of React JS</h1>
             </header>
             <nav>
             <div className='nav-bar'>
                <a className='home' href='http://mukundabam.epizy.com/?i=1'>HOME</a>
+               <a className='react' href ='https://leanreact.vercel.app/'>React JS</a>
+               <a className='css' href ='https://learncss-tau.vercel.app/'>CSS</a>
+               
                
              </div>
              </nav>
