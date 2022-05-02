@@ -11,7 +11,7 @@ function App() {
             </header>
             <nav>
             <div className='nav-bar'>
-               <a className='home' href='http://mukundabam.unaux.com/'>HOME</a>
+               <a className='home' href='https://mukundabam.netlify.app/'>HOME</a>
                <a className='react' href ='https://leanreact.vercel.app/'>React JS</a>
                <a className='css' href ='https://learncss-tau.vercel.app/'>CSS</a>
                
